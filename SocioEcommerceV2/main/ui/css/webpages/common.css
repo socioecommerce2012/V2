@@ -1,0 +1,15 @@
+/* 
+    Document   : main
+    Created on : Aug 23, 2012, 6:21:50 PM
+    Author     : TempAdmin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.clearfix:after, #header .inner:after, #navigation ul:after, .search-box:after, .pagination:after, .wrapper-content:after, #content:after, .figure-row:after, .figure-featured:after, .thing-section .wrapper-actions:after, .footer-nav:after, .page-deal-finished .summary:after, .page-deal-finished .details li:after, .page-deal-finished .gallery:after, .page-deal-create form .row:after, .notifications.altered .row:after, .deals .figure-product .remaining:after, .deal-buy .item:after, .deal-buy .process ul:after, .deal-buy form .row:after, .deal-buy form .row .cards:after, .deals .button-container:after, .deals .gallery .items:after, #showpopup .button-container:after, .fancy-popup:after, .fancy-popup .inner:after, .fancy-popup fieldset:after, .browse-alternate .follow-section:after, .browse .content-wrapper .listings:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}

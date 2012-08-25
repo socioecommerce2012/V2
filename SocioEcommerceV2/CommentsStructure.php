@@ -1,0 +1,64 @@
+<?php
+/* Comments For File */
+// ***********************************************************************************//
+//                                                                                    //  
+// File:	 CommentsStructure.php                                                //
+// Project:	 SocioEcommerceV2                                                     //  
+//                                                                                    //  
+//                                                                                    //  
+// Author:	Avinash Kodakandla                                                    //  
+// Date:	August 23, 2012                                                       //  
+// Description: This Page Gives the Comments Which Should Be Included in Every PHP    //
+// Page                                                                               //  
+//                                                                                    //  
+// Change History:                                                                    //
+// Name		Date			Version		Description                   //  
+// -----------------------------------------------------------------------------------//
+// Avinash Kodakandla	August 23, 2012		1.0		Created               //  
+//                                                                                    //  
+// -----------------------------------------------------------------------------------//
+// Copyright (C) <copyright information of the client>.                               //  
+// -----------------------------------------------------------------------------------//
+
+
+/* Comments For Functions */
+
+//************************************************************************************//
+//                                                                                    //  
+// Function Name :                                                                    //
+//                                                                                    //          
+// Inputs :                                                                           //      
+//                                                                                    //
+// Outputs :                                                                          //
+//                                                                                    //   
+// Functionality :                                                                    //  
+//                                                                                    //          
+// Exceptions Throws :                                                                //
+//                                                                                    //  
+//                                                                                    //
+// Algorithm:                                                                         //  
+//                                                                                    //  
+//                                                                                    //  
+//************************************************************************************//
+
+
+//************************************************************************************
+//                                                                                      
+// Function Name : PrintStackTrace                                                    
+//                                                                                              
+// Inputs :                                                                                 
+//                                                                                    
+// Outputs :                                                                          
+//                                                                                       
+// Functionality :                                                                      
+//                                                                                              
+// Exceptions Throws :                                                                
+//                                                                                      
+//                                                                                    
+// Algorithm:                                                                           
+//                                                                                      
+//                                                                                      
+//************************************************************************************
+
+
+?>

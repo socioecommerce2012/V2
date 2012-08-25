@@ -1,0 +1,51 @@
+<?php
+
+// ***********************************************************************************//
+//                                                                                    //  
+// File:	 CommentsStructure.php                                                //
+// Project:	 SocioEcommerceV2                                                     //  
+//                                                                                    //  
+//                                                                                    //  
+// Author:	Avinash Kodakandla                                                    //  
+// Date:	August 23, 2012                                                       //  
+// Description: This Page Gives the Comments Which Should Be Included in Every PHP    //
+// Page                                                                               //  
+//                                                                                    //  
+// Change History:                                                                    //
+// Name		Date			Version		Description                   //  
+// -----------------------------------------------------------------------------------//
+// Avinash Kodakandla	August 23, 2012		1.0		Created               //  
+//                                                                                    //  
+// -----------------------------------------------------------------------------------//
+// Copyright (C) <copyright information of the client>.                               //  
+// -----------------------------------------------------------------------------------//
+
+class BaseCurl {
+
+    public static function CurlInit() {
+        
+    }
+
+    public static function GetLastErrorCode() {
+        
+    }
+
+    public static function GetLastErrorMessage() {
+        
+    }
+
+    public static function CurlExec() {
+        
+    }
+
+    public static function CurlSetOptions() {
+        
+    }
+
+    public static function CurlClose() {
+        
+    }
+
+}
+
+?>
